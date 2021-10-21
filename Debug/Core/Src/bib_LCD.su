@@ -1,0 +1,4 @@
+bib_LCD.c:5:6:inicializa_lcd4b	8	static
+bib_LCD.c:14:6:imprime_lcd4b	24	static
+bib_LCD.c:23:6:instrucao_lcd4b	16	static
+bib_LCD.c:37:6:dado_lcd4b	16	static
